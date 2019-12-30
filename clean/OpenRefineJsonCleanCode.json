@@ -118,7 +118,7 @@
       },
       {
         "from": [
-          "3 Èves"
+          "3 √©ves"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -126,7 +126,7 @@
       },
       {
         "from": [
-          "2 Èves"
+          "2 √©ves"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -134,7 +134,7 @@
       },
       {
         "from": [
-          "5 Èves"
+          "5 √©ves"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -150,7 +150,7 @@
       },
       {
         "from": [
-          "1 Èves"
+          "1 √©ves"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -179,57 +179,57 @@
       },
       {
         "from": [
-          "bordÛ",
-          "BordÛ"
+          "bord√≥",
+          "Bord√≥"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "bordÛ"
+        "to": "bord√≥"
       },
       {
         "from": [
-          "ez¸st",
-          "Ez¸st"
+          "ez√ºst",
+          "Ez√ºst"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "ez¸st"
+        "to": "ez√ºst"
       },
       {
         "from": [
-          "KÈk",
-          "kÈk"
+          "K√©k",
+          "k√©k"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "KÈk"
+        "to": "K√©k"
       },
       {
         "from": [
-          "BÈzs",
-          "bÈzs"
+          "B√©zs",
+          "b√©zs"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "BÈzs"
+        "to": "B√©zs"
       },
       {
         "from": [
-          "Fekete, Sz¸rke",
-          "Sz¸rke, Fekete"
+          "Fekete, Sz√ºrke",
+          "Sz√ºrke, Fekete"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fekete, Sz¸rke"
+        "to": "Fekete, Sz√ºrke"
       },
       {
         "from": [
-          "Zˆld",
-          "zˆld"
+          "Z√∂ld",
+          "z√∂ld"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Zˆld"
+        "to": "Z√∂ld"
       },
       {
         "from": [
@@ -242,39 +242,39 @@
       },
       {
         "from": [
-          "RÛzsaszÌn",
-          "rÛzsaszÌn"
+          "R√≥zsasz√≠n",
+          "r√≥zsasz√≠n"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "RÛzsaszÌn"
+        "to": "R√≥zsasz√≠n"
       },
       {
         "from": [
-          "Sz¸rke",
-          "sz¸rke"
+          "Sz√ºrke",
+          "sz√ºrke"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Sz¸rke"
+        "to": "Sz√ºrke"
       },
       {
         "from": [
-          "fehÈr",
-          "FehÈr"
+          "feh√©r",
+          "Feh√©r"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "fehÈr"
+        "to": "feh√©r"
       },
       {
         "from": [
-          "S·rga",
-          "s·rga"
+          "S√°rga",
+          "s√°rga"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "S·rga"
+        "to": "S√°rga"
       },
       {
         "from": [
@@ -303,32 +303,32 @@
           "selection": [
             {
               "v": {
-                "v": "alulfagyasztÛs",
-                "l": "alulfagyasztÛs"
+                "v": "alulfagyaszt√≥s",
+                "l": "alulfagyaszt√≥s"
               }
             },
             {
               "v": {
-                "v": "alulfagyasztÛs, Kombin·lt h˚tı-fagyasztÛ",
-                "l": "alulfagyasztÛs, Kombin·lt h˚tı-fagyasztÛ"
+                "v": "alulfagyaszt√≥s, Kombin√°lt h≈±t≈ë-fagyaszt√≥",
+                "l": "alulfagyaszt√≥s, Kombin√°lt h≈±t≈ë-fagyaszt√≥"
               }
             },
             {
               "v": {
-                "v": "alulfagyasztÛs, kÈtajtÛs",
-                "l": "alulfagyasztÛs, kÈtajtÛs"
+                "v": "alulfagyaszt√≥s, k√©tajt√≥s",
+                "l": "alulfagyaszt√≥s, k√©tajt√≥s"
               }
             },
             {
               "v": {
-                "v": "alulfagyasztÛs, h˚tıszekrÈny",
-                "l": "alulfagyasztÛs, h˚tıszekrÈny"
+                "v": "alulfagyaszt√≥s, h≈±t≈ëszekr√©ny",
+                "l": "alulfagyaszt√≥s, h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "AlulfagyasztÛs h˚tıszekrÈny",
-                "l": "AlulfagyasztÛs h˚tıszekrÈny"
+                "v": "Alulfagyaszt√≥s h≈±t≈ëszekr√©ny",
+                "l": "Alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -343,36 +343,36 @@
     "edits": [
       {
         "from": [
-          "alulfagyasztÛs, h˚tıszekrÈny",
-          "AlulfagyasztÛs h˚tıszekrÈny"
+          "alulfagyaszt√≥s, h≈±t≈ëszekr√©ny",
+          "Alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "AlulfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "alulfagyasztÛs, Kombin·lt h˚tı-fagyasztÛ"
+          "alulfagyaszt√≥s, Kombin√°lt h≈±t≈ë-fagyaszt√≥"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "AlulfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "alulfagyasztÛs"
+          "alulfagyaszt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "AlulfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "alulfagyasztÛs, kÈtajtÛs"
+          "alulfagyaszt√≥s, k√©tajt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "AlulfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -392,20 +392,20 @@
           "selection": [
             {
               "v": {
-                "v": "Borh˚tı",
-                "l": "Borh˚tı"
+                "v": "Borh≈±t≈ë",
+                "l": "Borh≈±t≈ë"
               }
             },
             {
               "v": {
-                "v": "borh˚tı, egyajtÛs",
-                "l": "borh˚tı, egyajtÛs"
+                "v": "borh≈±t≈ë, egyajt√≥s",
+                "l": "borh≈±t≈ë, egyajt√≥s"
               }
             },
             {
               "v": {
-                "v": "borh˚tı",
-                "l": "borh˚tı"
+                "v": "borh≈±t≈ë",
+                "l": "borh≈±t≈ë"
               }
             }
           ],
@@ -420,20 +420,20 @@
     "edits": [
       {
         "from": [
-          "borh˚tı",
-          "Borh˚tı"
+          "borh≈±t≈ë",
+          "Borh≈±t≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Borh˚tı"
+        "to": "Borh≈±t≈ë"
       },
       {
         "from": [
-          "borh˚tı, egyajtÛs"
+          "borh≈±t≈ë, egyajt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Borh˚tı"
+        "to": "Borh≈±t≈ë"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -453,32 +453,32 @@
           "selection": [
             {
               "v": {
-                "v": "egyajtÛs, fel¸lfagyasztÛs",
-                "l": "egyajtÛs, fel¸lfagyasztÛs"
+                "v": "egyajt√≥s, fel√ºlfagyaszt√≥s",
+                "l": "egyajt√≥s, fel√ºlfagyaszt√≥s"
               }
             },
             {
               "v": {
-                "v": "egyajtÛs",
-                "l": "egyajtÛs"
+                "v": "egyajt√≥s",
+                "l": "egyajt√≥s"
               }
             },
             {
               "v": {
-                "v": "egyajtÛs, fagyasztÛszekrÈny",
-                "l": "egyajtÛs, fagyasztÛszekrÈny"
+                "v": "egyajt√≥s, fagyaszt√≥szekr√©ny",
+                "l": "egyajt√≥s, fagyaszt√≥szekr√©ny"
               }
             },
             {
               "v": {
-                "v": "EgyajtÛs h˚tıszekrÈny",
-                "l": "EgyajtÛs h˚tıszekrÈny"
+                "v": "Egyajt√≥s h≈±t≈ëszekr√©ny",
+                "l": "Egyajt√≥s h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "egyajtÛs, h˚tıszekrÈny",
-                "l": "egyajtÛs, h˚tıszekrÈny"
+                "v": "egyajt√≥s, h≈±t≈ëszekr√©ny",
+                "l": "egyajt√≥s, h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -493,36 +493,36 @@
     "edits": [
       {
         "from": [
-          "egyajtÛs, h˚tıszekrÈny",
-          "EgyajtÛs h˚tıszekrÈny"
+          "egyajt√≥s, h≈±t≈ëszekr√©ny",
+          "Egyajt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "EgyajtÛs h˚tıszekrÈny"
+        "to": "Egyajt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "egyajtÛs, fagyasztÛszekrÈny"
+          "egyajt√≥s, fagyaszt√≥szekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "EgyajtÛs h˚tıszekrÈny"
+        "to": "Egyajt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "egyajtÛs"
+          "egyajt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "EgyajtÛs h˚tıszekrÈny"
+        "to": "Egyajt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "egyajtÛs, fel¸lfagyasztÛs"
+          "egyajt√≥s, fel√ºlfagyaszt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "EgyajtÛs h˚tıszekrÈny"
+        "to": "Egyajt√≥s h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -548,8 +548,8 @@
             },
             {
               "v": {
-                "v": "Elektromos h˚tıl·da",
-                "l": "Elektromos h˚tıl·da"
+                "v": "Elektromos h≈±t≈ël√°da",
+                "l": "Elektromos h≈±t≈ël√°da"
               }
             }
           ],
@@ -564,11 +564,11 @@
     "edits": [
       {
         "from": [
-          "Elektromos h˚tıl·da"
+          "Elektromos h≈±t≈ël√°da"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Elektromos h˚tıl·da"
+        "to": "Elektromos h≈±t≈ël√°da"
       },
       {
         "from": [
@@ -576,7 +576,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Elektromos h˚tıl·da"
+        "to": "Elektromos h≈±t≈ël√°da"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -596,14 +596,14 @@
           "selection": [
             {
               "v": {
-                "v": "FagyasztÛl·da",
-                "l": "FagyasztÛl·da"
+                "v": "Fagyaszt√≥l√°da",
+                "l": "Fagyaszt√≥l√°da"
               }
             },
             {
               "v": {
-                "v": "fagyasztÛl·da",
-                "l": "fagyasztÛl·da"
+                "v": "fagyaszt√≥l√°da",
+                "l": "fagyaszt√≥l√°da"
               }
             }
           ],
@@ -618,12 +618,12 @@
     "edits": [
       {
         "from": [
-          "fagyasztÛl·da",
-          "FagyasztÛl·da"
+          "fagyaszt√≥l√°da",
+          "Fagyaszt√≥l√°da"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "FagyasztÛl·da"
+        "to": "Fagyaszt√≥l√°da"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -643,14 +643,14 @@
           "selection": [
             {
               "v": {
-                "v": "fagyasztÛszekrÈny",
-                "l": "fagyasztÛszekrÈny"
+                "v": "fagyaszt√≥szekr√©ny",
+                "l": "fagyaszt√≥szekr√©ny"
               }
             },
             {
               "v": {
-                "v": "FagyasztÛszekrÈny",
-                "l": "FagyasztÛszekrÈny"
+                "v": "Fagyaszt√≥szekr√©ny",
+                "l": "Fagyaszt√≥szekr√©ny"
               }
             }
           ],
@@ -665,12 +665,12 @@
     "edits": [
       {
         "from": [
-          "FagyasztÛszekrÈny",
-          "fagyasztÛszekrÈny"
+          "Fagyaszt√≥szekr√©ny",
+          "fagyaszt√≥szekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "FagyasztÛszekrÈny"
+        "to": "Fagyaszt√≥szekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -690,32 +690,32 @@
           "selection": [
             {
               "v": {
-                "v": "Fel¸lfagyasztÛs h˚tı",
-                "l": "Fel¸lfagyasztÛs h˚tı"
+                "v": "Fel√ºlfagyaszt√≥s h≈±t≈ë",
+                "l": "Fel√ºlfagyaszt√≥s h≈±t≈ë"
               }
             },
             {
               "v": {
-                "v": "fel¸lfagyasztÛs",
-                "l": "fel¸lfagyasztÛs"
+                "v": "fel√ºlfagyaszt√≥s",
+                "l": "fel√ºlfagyaszt√≥s"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt h˚tı-fagyasztÛ, fel¸lfagyasztÛs",
-                "l": "Kombin·lt h˚tı-fagyasztÛ, fel¸lfagyasztÛs"
+                "v": "Kombin√°lt h≈±t≈ë-fagyaszt√≥, fel√ºlfagyaszt√≥s",
+                "l": "Kombin√°lt h≈±t≈ë-fagyaszt√≥, fel√ºlfagyaszt√≥s"
               }
             },
             {
               "v": {
-                "v": "fel¸lfagyasztÛs, h˚tıszekrÈny",
-                "l": "fel¸lfagyasztÛs, h˚tıszekrÈny"
+                "v": "fel√ºlfagyaszt√≥s, h≈±t≈ëszekr√©ny",
+                "l": "fel√ºlfagyaszt√≥s, h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "fel¸lfagyasztÛs, Kombin·lt h˚tı-fagyasztÛ",
-                "l": "fel¸lfagyasztÛs, Kombin·lt h˚tı-fagyasztÛ"
+                "v": "fel√ºlfagyaszt√≥s, Kombin√°lt h≈±t≈ë-fagyaszt√≥",
+                "l": "fel√ºlfagyaszt√≥s, Kombin√°lt h≈±t≈ë-fagyaszt√≥"
               }
             }
           ],
@@ -730,36 +730,36 @@
     "edits": [
       {
         "from": [
-          "Kombin·lt h˚tı-fagyasztÛ, fel¸lfagyasztÛs",
-          "fel¸lfagyasztÛs, Kombin·lt h˚tı-fagyasztÛ"
+          "Kombin√°lt h≈±t≈ë-fagyaszt√≥, fel√ºlfagyaszt√≥s",
+          "fel√ºlfagyaszt√≥s, Kombin√°lt h≈±t≈ë-fagyaszt√≥"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "fel¸lfagyasztÛs, h˚tıszekrÈny"
+          "fel√ºlfagyaszt√≥s, h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "Fel¸lfagyasztÛs h˚tı"
+          "Fel√ºlfagyaszt√≥s h≈±t≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "fel¸lfagyasztÛs"
+          "fel√ºlfagyaszt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny"
+        "to": "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -779,20 +779,20 @@
           "selection": [
             {
               "v": {
-                "v": "minib·r",
-                "l": "minib·r"
+                "v": "minib√°r",
+                "l": "minib√°r"
               }
             },
             {
               "v": {
-                "v": "Mini h˚tıszekrÈny",
-                "l": "Mini h˚tıszekrÈny"
+                "v": "Mini h≈±t≈ëszekr√©ny",
+                "l": "Mini h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "minib·r, h˚tıszekrÈny",
-                "l": "minib·r, h˚tıszekrÈny"
+                "v": "minib√°r, h≈±t≈ëszekr√©ny",
+                "l": "minib√°r, h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -807,27 +807,27 @@
     "edits": [
       {
         "from": [
-          "Mini h˚tıszekrÈny"
+          "Mini h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Minib·r h˚tıszekrÈny"
+        "to": "Minib√°r h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "minib·r, h˚tıszekrÈny"
+          "minib√°r, h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Minib·r h˚tıszekrÈny"
+        "to": "Minib√°r h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "minib·r"
+          "minib√°r"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Minib·r h˚tıszekrÈny"
+        "to": "Minib√°r h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -853,44 +853,44 @@
             },
             {
               "v": {
-                "v": "Side by side h˚tı",
-                "l": "Side by side h˚tı"
+                "v": "Side by side h≈±t≈ë",
+                "l": "Side by side h≈±t≈ë"
               }
             },
             {
               "v": {
-                "v": "Side by Side kombin·lt h˚tıszekrÈny",
-                "l": "Side by Side kombin·lt h˚tıszekrÈny"
+                "v": "Side by Side kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "Side by Side kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Side by side h˚tıszekrÈny",
-                "l": "Side by side h˚tıszekrÈny"
+                "v": "Side by side h≈±t≈ëszekr√©ny",
+                "l": "Side by side h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "side by side (amerikai tÌpus˙), alulfagyasztÛs, h˚tıszekrÈny",
-                "l": "side by side (amerikai tÌpus˙), alulfagyasztÛs, h˚tıszekrÈny"
+                "v": "side by side (amerikai t√≠pus√∫), alulfagyaszt√≥s, h≈±t≈ëszekr√©ny",
+                "l": "side by side (amerikai t√≠pus√∫), alulfagyaszt√≥s, h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "side by side (amerikai tÌpus˙)",
-                "l": "side by side (amerikai tÌpus˙)"
+                "v": "side by side (amerikai t√≠pus√∫)",
+                "l": "side by side (amerikai t√≠pus√∫)"
               }
             },
             {
               "v": {
-                "v": "side by side (amerikai tÌpus˙), NÈgy ajtÛs",
-                "l": "side by side (amerikai tÌpus˙), NÈgy ajtÛs"
+                "v": "side by side (amerikai t√≠pus√∫), N√©gy ajt√≥s",
+                "l": "side by side (amerikai t√≠pus√∫), N√©gy ajt√≥s"
               }
             },
             {
               "v": {
-                "v": "Side by Side h˚tıszekrÈny",
-                "l": "Side by Side h˚tıszekrÈny"
+                "v": "Side by Side h≈±t≈ëszekr√©ny",
+                "l": "Side by Side h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -905,52 +905,52 @@
     "edits": [
       {
         "from": [
-          "Side by side h˚tıszekrÈny",
-          "Side by Side h˚tıszekrÈny"
+          "Side by side h≈±t≈ëszekr√©ny",
+          "Side by Side h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "side by side (amerikai tÌpus˙), alulfagyasztÛs, h˚tıszekrÈny"
+          "side by side (amerikai t√≠pus√∫), alulfagyaszt√≥s, h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "Side by Side kombin·lt h˚tıszekrÈny"
+          "Side by Side kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "side by side (amerikai tÌpus˙), NÈgy ajtÛs"
+          "side by side (amerikai t√≠pus√∫), N√©gy ajt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "Side by side h˚tı"
+          "Side by side h≈±t≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "side by side (amerikai tÌpus˙)"
+          "side by side (amerikai t√≠pus√∫)"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -958,7 +958,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Side by side h˚tıszekrÈny"
+        "to": "Side by side h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -978,14 +978,14 @@
           "selection": [
             {
               "v": {
-                "v": "h˚tıszekrÈny, egyajtÛs",
-                "l": "h˚tıszekrÈny, egyajtÛs"
+                "v": "h≈±t≈ëszekr√©ny, egyajt√≥s",
+                "l": "h≈±t≈ëszekr√©ny, egyajt√≥s"
               }
             },
             {
               "v": {
-                "v": "EgyajtÛs h˚tıszekrÈny",
-                "l": "EgyajtÛs h˚tıszekrÈny"
+                "v": "Egyajt√≥s h≈±t≈ëszekr√©ny",
+                "l": "Egyajt√≥s h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -1000,12 +1000,12 @@
     "edits": [
       {
         "from": [
-          "EgyajtÛs h˚tıszekrÈny",
-          "h˚tıszekrÈny, egyajtÛs"
+          "Egyajt√≥s h≈±t≈ëszekr√©ny",
+          "h≈±t≈ëszekr√©ny, egyajt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "EgyajtÛs h˚tıszekrÈny"
+        "to": "Egyajt√≥s h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1025,20 +1025,20 @@
           "selection": [
             {
               "v": {
-                "v": "No Frost Kombin·lt h˚tıszekrÈny",
-                "l": "No Frost Kombin·lt h˚tıszekrÈny"
+                "v": "No Frost Kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "No Frost Kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "No Frost kombin·lt h˚tıszekrÈny",
-                "l": "No Frost kombin·lt h˚tıszekrÈny"
+                "v": "No Frost kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "h˚tıszekrÈny, egyajtÛs",
-                "l": "h˚tıszekrÈny, egyajtÛs"
+                "v": "h≈±t≈ëszekr√©ny, egyajt√≥s",
+                "l": "h≈±t≈ëszekr√©ny, egyajt√≥s"
               }
             }
           ],
@@ -1053,12 +1053,12 @@
     "edits": [
       {
         "from": [
-          "No Frost kombin·lt h˚tıszekrÈny",
-          "No Frost Kombin·lt h˚tıszekrÈny"
+          "No Frost kombin√°lt h≈±t≈ëszekr√©ny",
+          "No Frost Kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "No Frost kombin·lt h˚tıszekrÈny"
+        "to": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1078,26 +1078,26 @@
           "selection": [
             {
               "v": {
-                "v": "Kombin·lt h˚rıszekrÈny",
-                "l": "Kombin·lt h˚rıszekrÈny"
+                "v": "Kombin√°lt h≈±r≈ëszekr√©ny",
+                "l": "Kombin√°lt h≈±r≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt H˚tıszekrÈny",
-                "l": "Kombin·lt H˚tıszekrÈny"
+                "v": "Kombin√°lt H≈±t≈ëszekr√©ny",
+                "l": "Kombin√°lt H≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt h˚tıszekrÈny",
-                "l": "Kombin·lt h˚tıszekrÈny"
+                "v": "Kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "Kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt h˚tıszekrÈy",
-                "l": "Kombin·lt h˚tıszekrÈy"
+                "v": "Kombin√°lt h≈±t≈ëszekr√©y",
+                "l": "Kombin√°lt h≈±t≈ëszekr√©y"
               }
             }
           ],
@@ -1112,28 +1112,28 @@
     "edits": [
       {
         "from": [
-          "Kombin·lt h˚tıszekrÈny",
-          "Kombin·lt H˚tıszekrÈny"
+          "Kombin√°lt h≈±t≈ëszekr√©ny",
+          "Kombin√°lt H≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kombin·lt h˚tıszekrÈny"
+        "to": "Kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "Kombin·lt h˚rıszekrÈny"
+          "Kombin√°lt h≈±r≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kombin·lt h˚tıszekrÈny"
+        "to": "Kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "Kombin·lt h˚tıszekrÈy"
+          "Kombin√°lt h≈±t≈ëszekr√©y"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kombin·lt h˚tıszekrÈny"
+        "to": "Kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1153,20 +1153,20 @@
           "selection": [
             {
               "v": {
-                "v": "Merevfal˙",
-                "l": "Merevfal˙"
+                "v": "Merevfal√∫",
+                "l": "Merevfal√∫"
               }
             },
             {
               "v": {
-                "v": "h˚tıszekrÈny",
-                "l": "h˚tıszekrÈny"
+                "v": "h≈±t≈ëszekr√©ny",
+                "l": "h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "H˚tıszekrÈny",
-                "l": "H˚tıszekrÈny"
+                "v": "H≈±t≈ëszekr√©ny",
+                "l": "H≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -1181,12 +1181,12 @@
     "edits": [
       {
         "from": [
-          "H˚tıszekrÈny",
-          "h˚tıszekrÈny"
+          "H≈±t≈ëszekr√©ny",
+          "h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "H˚tıszekrÈny"
+        "to": "H≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1206,14 +1206,14 @@
           "selection": [
             {
               "v": {
-                "v": "Kombin·lt h˚tıszekrÈny",
-                "l": "Kombin·lt h˚tıszekrÈny"
+                "v": "Kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "Kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt h˚tı-fagyasztÛ",
-                "l": "Kombin·lt h˚tı-fagyasztÛ"
+                "v": "Kombin√°lt h≈±t≈ë-fagyaszt√≥",
+                "l": "Kombin√°lt h≈±t≈ë-fagyaszt√≥"
               }
             }
           ],
@@ -1228,19 +1228,19 @@
     "edits": [
       {
         "from": [
-          "Kombin·lt h˚tı-fagyasztÛ"
+          "Kombin√°lt h≈±t≈ë-fagyaszt√≥"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kombin·lt h˚tıszekrÈny"
+        "to": "Kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "Kombin·lt h˚tıszekrÈny"
+          "Kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Kombin·lt h˚tıszekrÈny"
+        "to": "Kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1260,14 +1260,14 @@
           "selection": [
             {
               "v": {
-                "v": "h˚tıbox (h˚tıt·ska)",
-                "l": "h˚tıbox (h˚tıt·ska)"
+                "v": "h≈±t≈ëbox (h≈±t≈ët√°ska)",
+                "l": "h≈±t≈ëbox (h≈±t≈ët√°ska)"
               }
             },
             {
               "v": {
-                "v": "Merevfal˙",
-                "l": "Merevfal˙"
+                "v": "Merevfal√∫",
+                "l": "Merevfal√∫"
               }
             }
           ],
@@ -1282,19 +1282,19 @@
     "edits": [
       {
         "from": [
-          "Merevfal˙"
+          "Merevfal√∫"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "H˚tıt·ska"
+        "to": "H≈±t≈ët√°ska"
       },
       {
         "from": [
-          "h˚tıbox (h˚tıt·ska)"
+          "h≈±t≈ëbox (h≈±t≈ët√°ska)"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "H˚tıt·ska"
+        "to": "H≈±t≈ët√°ska"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1314,14 +1314,14 @@
           "selection": [
             {
               "v": {
-                "v": "¸vegajtÛs h˚tıszekrÈny",
-                "l": "¸vegajtÛs h˚tıszekrÈny"
+                "v": "√ºvegajt√≥s h≈±t≈ëszekr√©ny",
+                "l": "√ºvegajt√≥s h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "H˚tıszekrÈny",
-                "l": "H˚tıszekrÈny"
+                "v": "H≈±t≈ëszekr√©ny",
+                "l": "H≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -1336,19 +1336,19 @@
     "edits": [
       {
         "from": [
-          "H˚tıszekrÈny"
+          "H≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "H˚tıszekrÈny"
+        "to": "H≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "¸vegajtÛs h˚tıszekrÈny"
+          "√ºvegajt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "H˚tıszekrÈny"
+        "to": "H≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1368,20 +1368,20 @@
           "selection": [
             {
               "v": {
-                "v": "kÈtajtÛs",
-                "l": "kÈtajtÛs"
+                "v": "k√©tajt√≥s",
+                "l": "k√©tajt√≥s"
               }
             },
             {
               "v": {
-                "v": "No Frost kombin·lt h˚tıszekrÈny",
-                "l": "No Frost kombin·lt h˚tıszekrÈny"
+                "v": "No Frost kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "H˚tıszekrÈny",
-                "l": "H˚tıszekrÈny"
+                "v": "H≈±t≈ëszekr√©ny",
+                "l": "H≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -1396,11 +1396,11 @@
     "edits": [
       {
         "from": [
-          "No Frost kombin·lt h˚tıszekrÈny"
+          "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "No Frost kombin·lt h˚tıszekrÈny"
+        "to": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1420,14 +1420,14 @@
           "selection": [
             {
               "v": {
-                "v": "kÈtajtÛs",
-                "l": "kÈtajtÛs"
+                "v": "k√©tajt√≥s",
+                "l": "k√©tajt√≥s"
               }
             },
             {
               "v": {
-                "v": "No Frost kombin·lt h˚tıszekrÈny",
-                "l": "No Frost kombin·lt h˚tıszekrÈny"
+                "v": "No Frost kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -1442,19 +1442,19 @@
     "edits": [
       {
         "from": [
-          "No Frost kombin·lt h˚tıszekrÈny"
+          "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "No Frost kombin·lt h˚tıszekrÈny"
+        "to": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
-          "kÈtajtÛs"
+          "k√©tajt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "No Frost kombin·lt h˚tıszekrÈny"
+        "to": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
       }
     ],
     "description": "Mass edit cells in column type"
@@ -1528,62 +1528,62 @@
           "selection": [
             {
               "v": {
-                "v": "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny",
-                "l": "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny"
+                "v": "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "h˚tıszekrÈny, Kombin·lt h˚tı-fagyasztÛ",
-                "l": "h˚tıszekrÈny, Kombin·lt h˚tı-fagyasztÛ"
+                "v": "h≈±t≈ëszekr√©ny, Kombin√°lt h≈±t≈ë-fagyaszt√≥",
+                "l": "h≈±t≈ëszekr√©ny, Kombin√°lt h≈±t≈ë-fagyaszt√≥"
               }
             },
             {
               "v": {
-                "v": "AlulfagyasztÛs kombin·lt h˚tıszekrÈny",
-                "l": "AlulfagyasztÛs kombin·lt h˚tıszekrÈny"
+                "v": "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt h˚tıszekrÈny",
-                "l": "Kombin·lt h˚tıszekrÈny"
+                "v": "Kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "Kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "No Frost kombin·lt h˚tıszekrÈny",
-                "l": "No Frost kombin·lt h˚tıszekrÈny"
+                "v": "No Frost kombin√°lt h≈±t≈ëszekr√©ny",
+                "l": "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Kombin·lt h˚tı-fagyasztÛ, alulfagyasztÛs",
-                "l": "Kombin·lt h˚tı-fagyasztÛ, alulfagyasztÛs"
+                "v": "Kombin√°lt h≈±t≈ë-fagyaszt√≥, alulfagyaszt√≥s",
+                "l": "Kombin√°lt h≈±t≈ë-fagyaszt√≥, alulfagyaszt√≥s"
               }
             },
             {
               "v": {
-                "v": "H˚tıszekrÈny",
-                "l": "H˚tıszekrÈny"
+                "v": "H≈±t≈ëszekr√©ny",
+                "l": "H≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Minib·r h˚tıszekrÈny",
-                "l": "Minib·r h˚tıszekrÈny"
+                "v": "Minib√°r h≈±t≈ëszekr√©ny",
+                "l": "Minib√°r h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "Side by side h˚tıszekrÈny",
-                "l": "Side by side h˚tıszekrÈny"
+                "v": "Side by side h≈±t≈ëszekr√©ny",
+                "l": "Side by side h≈±t≈ëszekr√©ny"
               }
             },
             {
               "v": {
-                "v": "EgyajtÛs h˚tıszekrÈny",
-                "l": "EgyajtÛs h˚tıszekrÈny"
+                "v": "Egyajt√≥s h≈±t≈ëszekr√©ny",
+                "l": "Egyajt√≥s h≈±t≈ëszekr√©ny"
               }
             }
           ],
@@ -1598,7 +1598,7 @@
     "edits": [
       {
         "from": [
-          "Kombin·lt h˚tı-fagyasztÛ, alulfagyasztÛs"
+          "Kombin√°lt h≈±t≈ë-fagyaszt√≥, alulfagyaszt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1606,7 +1606,7 @@
       },
       {
         "from": [
-          "EgyajtÛs h˚tıszekrÈny"
+          "Egyajt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1614,7 +1614,7 @@
       },
       {
         "from": [
-          "Kombin·lt h˚tıszekrÈny"
+          "Kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1622,7 +1622,7 @@
       },
       {
         "from": [
-          "H˚tıszekrÈny"
+          "H≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1630,7 +1630,7 @@
       },
       {
         "from": [
-          "Side by side h˚tıszekrÈny"
+          "Side by side h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1638,7 +1638,7 @@
       },
       {
         "from": [
-          "h˚tıszekrÈny, Kombin·lt h˚tı-fagyasztÛ"
+          "h≈±t≈ëszekr√©ny, Kombin√°lt h≈±t≈ë-fagyaszt√≥"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1646,7 +1646,7 @@
       },
       {
         "from": [
-          "AlulfagyasztÛs kombin·lt h˚tıszekrÈny"
+          "Alulfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1654,7 +1654,7 @@
       },
       {
         "from": [
-          "No Frost kombin·lt h˚tıszekrÈny"
+          "No Frost kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1662,7 +1662,7 @@
       },
       {
         "from": [
-          "Fel¸lfagyasztÛs kombin·lt h˚tıszekrÈny"
+          "Fel√ºlfagyaszt√≥s kombin√°lt h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1670,7 +1670,7 @@
       },
       {
         "from": [
-          "Minib·r h˚tıszekrÈny"
+          "Minib√°r h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1694,14 +1694,14 @@
           "selection": [
             {
               "v": {
-                "v": "FagyasztÛszekrÈny",
-                "l": "FagyasztÛszekrÈny"
+                "v": "Fagyaszt√≥szekr√©ny",
+                "l": "Fagyaszt√≥szekr√©ny"
               }
             },
             {
               "v": {
-                "v": "FagyasztÛl·da",
-                "l": "FagyasztÛl·da"
+                "v": "Fagyaszt√≥l√°da",
+                "l": "Fagyaszt√≥l√°da"
               }
             }
           ],
@@ -1716,7 +1716,7 @@
     "edits": [
       {
         "from": [
-          "FagyasztÛszekrÈny"
+          "Fagyaszt√≥szekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1724,7 +1724,7 @@
       },
       {
         "from": [
-          "FagyasztÛl·da"
+          "Fagyaszt√≥l√°da"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1754,14 +1754,14 @@
             },
             {
               "v": {
-                "v": "H˚tıt·ska",
-                "l": "H˚tıt·ska"
+                "v": "H≈±t≈ët√°ska",
+                "l": "H≈±t≈ët√°ska"
               }
             },
             {
               "v": {
-                "v": "Elektromos h˚tıl·da",
-                "l": "Elektromos h˚tıl·da"
+                "v": "Elektromos h≈±t≈ël√°da",
+                "l": "Elektromos h≈±t≈ël√°da"
               }
             }
           ],
@@ -1776,7 +1776,7 @@
     "edits": [
       {
         "from": [
-          "Elektromos h˚tıl·da"
+          "Elektromos h≈±t≈ël√°da"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1784,7 +1784,7 @@
       },
       {
         "from": [
-          "H˚tıt·ska"
+          "H≈±t≈ët√°ska"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1808,8 +1808,8 @@
           "selection": [
             {
               "v": {
-                "v": "Borh˚tı",
-                "l": "Borh˚tı"
+                "v": "Borh≈±t≈ë",
+                "l": "Borh≈±t≈ë"
               }
             }
           ],
@@ -1824,7 +1824,7 @@
     "edits": [
       {
         "from": [
-          "Borh˚tı"
+          "Borh≈±t≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1848,20 +1848,20 @@
           "selection": [
             {
               "v": {
-                "v": "¸veg, fehÈr",
-                "l": "¸veg, fehÈr"
+                "v": "√ºveg, feh√©r",
+                "l": "√ºveg, feh√©r"
               }
             },
             {
               "v": {
-                "v": "hÛfehÈr",
-                "l": "hÛfehÈr"
+                "v": "h√≥feh√©r",
+                "l": "h√≥feh√©r"
               }
             },
             {
               "v": {
-                "v": "fehÈr",
-                "l": "fehÈr"
+                "v": "feh√©r",
+                "l": "feh√©r"
               }
             }
           ],
@@ -1876,7 +1876,7 @@
     "edits": [
       {
         "from": [
-          "hÛfehÈr"
+          "h√≥feh√©r"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1884,7 +1884,7 @@
       },
       {
         "from": [
-          "¸veg, fehÈr"
+          "√ºveg, feh√©r"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1892,7 +1892,7 @@
       },
       {
         "from": [
-          "fehÈr"
+          "feh√©r"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1916,8 +1916,8 @@
           "selection": [
             {
               "v": {
-                "v": "fekete, rozsdamentes acÈl",
-                "l": "fekete, rozsdamentes acÈl"
+                "v": "fekete, rozsdamentes ac√©l",
+                "l": "fekete, rozsdamentes ac√©l"
               }
             },
             {
@@ -1940,8 +1940,8 @@
             },
             {
               "v": {
-                "v": "Fekete acÈl",
-                "l": "Fekete acÈl"
+                "v": "Fekete ac√©l",
+                "l": "Fekete ac√©l"
               }
             }
           ],
@@ -1965,7 +1965,7 @@
     "edits": [
       {
         "from": [
-          "fekete, rozsdamentes acÈl"
+          "fekete, rozsdamentes ac√©l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -1981,7 +1981,7 @@
       },
       {
         "from": [
-          "Fekete acÈl"
+          "Fekete ac√©l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2021,38 +2021,38 @@
           "selection": [
             {
               "v": {
-                "v": "fehÈr, inox, ez¸st",
-                "l": "fehÈr, inox, ez¸st"
+                "v": "feh√©r, inox, ez√ºst",
+                "l": "feh√©r, inox, ez√ºst"
               }
             },
             {
               "v": {
-                "v": "ez¸st oldalak + inox ajtÛ",
-                "l": "ez¸st oldalak + inox ajtÛ"
+                "v": "ez√ºst oldalak + inox ajt√≥",
+                "l": "ez√ºst oldalak + inox ajt√≥"
               }
             },
             {
               "v": {
-                "v": "inox, met·l",
-                "l": "inox, met·l"
+                "v": "inox, met√°l",
+                "l": "inox, met√°l"
               }
             },
             {
               "v": {
-                "v": "inox, sz¸rke",
-                "l": "inox, sz¸rke"
+                "v": "inox, sz√ºrke",
+                "l": "inox, sz√ºrke"
               }
             },
             {
               "v": {
-                "v": "inox, krÛm, met·l",
-                "l": "inox, krÛm, met·l"
+                "v": "inox, kr√≥m, met√°l",
+                "l": "inox, kr√≥m, met√°l"
               }
             },
             {
               "v": {
-                "v": "inox, ez¸st",
-                "l": "inox, ez¸st"
+                "v": "inox, ez√ºst",
+                "l": "inox, ez√ºst"
               }
             },
             {
@@ -2063,14 +2063,14 @@
             },
             {
               "v": {
-                "v": "inox, krÛm",
-                "l": "inox, krÛm"
+                "v": "inox, kr√≥m",
+                "l": "inox, kr√≥m"
               }
             },
             {
               "v": {
-                "v": "inox, nemesacÈl, krÛm",
-                "l": "inox, nemesacÈl, krÛm"
+                "v": "inox, nemesac√©l, kr√≥m",
+                "l": "inox, nemesac√©l, kr√≥m"
               }
             }
           ],
@@ -2094,7 +2094,7 @@
     "edits": [
       {
         "from": [
-          "ez¸st oldalak + inox ajtÛ"
+          "ez√ºst oldalak + inox ajt√≥"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2102,7 +2102,7 @@
       },
       {
         "from": [
-          "inox, met·l"
+          "inox, met√°l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2110,7 +2110,7 @@
       },
       {
         "from": [
-          "inox, krÛm"
+          "inox, kr√≥m"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2118,7 +2118,7 @@
       },
       {
         "from": [
-          "inox, sz¸rke"
+          "inox, sz√ºrke"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2126,7 +2126,7 @@
       },
       {
         "from": [
-          "inox, krÛm, met·l"
+          "inox, kr√≥m, met√°l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2134,7 +2134,7 @@
       },
       {
         "from": [
-          "inox, nemesacÈl, krÛm"
+          "inox, nemesac√©l, kr√≥m"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2142,7 +2142,7 @@
       },
       {
         "from": [
-          "fehÈr, inox, ez¸st"
+          "feh√©r, inox, ez√ºst"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2150,7 +2150,7 @@
       },
       {
         "from": [
-          "inox, ez¸st"
+          "inox, ez√ºst"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2188,7 +2188,7 @@
     "edits": [
       {
         "from": [
-          "Fekete, Sz¸rke"
+          "Fekete, Sz√ºrke"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2242,14 +2242,14 @@
           "selection": [
             {
               "v": {
-                "v": "BÈzs",
-                "l": "BÈzs"
+                "v": "B√©zs",
+                "l": "B√©zs"
               }
             },
             {
               "v": {
-                "v": "elef·ntcsont",
-                "l": "elef·ntcsont"
+                "v": "elef√°ntcsont",
+                "l": "elef√°ntcsont"
               }
             }
           ],
@@ -2273,7 +2273,7 @@
     "edits": [
       {
         "from": [
-          "BÈzs"
+          "B√©zs"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2281,7 +2281,7 @@
       },
       {
         "from": [
-          "elef·ntcsont"
+          "elef√°ntcsont"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2311,8 +2311,8 @@
             },
             {
               "v": {
-                "v": "k·vÈ",
-                "l": "k·vÈ"
+                "v": "k√°v√©",
+                "l": "k√°v√©"
               }
             }
           ],
@@ -2335,7 +2335,7 @@
       },
       {
         "from": [
-          "k·vÈ"
+          "k√°v√©"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2355,7 +2355,7 @@
     "edits": [
       {
         "from": [
-          "S·rga"
+          "S√°rga"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2379,8 +2379,8 @@
           "selection": [
             {
               "v": {
-                "v": "narancss·rga",
-                "l": "narancss·rga"
+                "v": "narancss√°rga",
+                "l": "narancss√°rga"
               }
             },
             {
@@ -2401,7 +2401,7 @@
     "edits": [
       {
         "from": [
-          "narancss·rga"
+          "narancss√°rga"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2433,14 +2433,14 @@
           "selection": [
             {
               "v": {
-                "v": "KÈk",
-                "l": "KÈk"
+                "v": "K√©k",
+                "l": "K√©k"
               }
             },
             {
               "v": {
-                "v": "T¸rkiz",
-                "l": "T¸rkiz"
+                "v": "T√ºrkiz",
+                "l": "T√ºrkiz"
               }
             }
           ],
@@ -2455,7 +2455,7 @@
     "edits": [
       {
         "from": [
-          "KÈk"
+          "K√©k"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2463,7 +2463,7 @@
       },
       {
         "from": [
-          "T¸rkiz"
+          "T√ºrkiz"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2483,7 +2483,7 @@
     "edits": [
       {
         "from": [
-          "RÛzsaszÌn"
+          "R√≥zsasz√≠n"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2513,8 +2513,8 @@
             },
             {
               "v": {
-                "v": "vˆrˆs",
-                "l": "vˆrˆs"
+                "v": "v√∂r√∂s",
+                "l": "v√∂r√∂s"
               }
             }
           ],
@@ -2537,7 +2537,7 @@
       },
       {
         "from": [
-          "vˆrˆs"
+          "v√∂r√∂s"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2557,7 +2557,7 @@
     "edits": [
       {
         "from": [
-          "bordÛ"
+          "bord√≥"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2577,7 +2577,7 @@
     "edits": [
       {
         "from": [
-          "Zˆld"
+          "Z√∂ld"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2597,7 +2597,7 @@
     "edits": [
       {
         "from": [
-          "Sz¸rke, Zˆld"
+          "Sz√ºrke, Z√∂ld"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2617,7 +2617,7 @@
     "edits": [
       {
         "from": [
-          "csokol·dÈ"
+          "csokol√°d√©"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2641,14 +2641,14 @@
           "selection": [
             {
               "v": {
-                "v": "ez¸st",
-                "l": "ez¸st"
+                "v": "ez√ºst",
+                "l": "ez√ºst"
               }
             },
             {
               "v": {
-                "v": "hamvas ez¸st",
-                "l": "hamvas ez¸st"
+                "v": "hamvas ez√ºst",
+                "l": "hamvas ez√ºst"
               }
             }
           ],
@@ -2659,7 +2659,7 @@
           "type": "text",
           "name": "colour",
           "columnName": "colour",
-          "query": "ez¸st",
+          "query": "ez√ºst",
           "mode": "text",
           "caseSensitive": false,
           "invert": false
@@ -2672,7 +2672,7 @@
     "edits": [
       {
         "from": [
-          "hamvas ez¸st"
+          "hamvas ez√ºst"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2680,7 +2680,7 @@
       },
       {
         "from": [
-          "ez¸st"
+          "ez√ºst"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2704,20 +2704,20 @@
           "selection": [
             {
               "v": {
-                "v": "met·l, sz¸rke",
-                "l": "met·l, sz¸rke"
+                "v": "met√°l, sz√ºrke",
+                "l": "met√°l, sz√ºrke"
               }
             },
             {
               "v": {
-                "v": "Sz¸rke",
-                "l": "Sz¸rke"
+                "v": "Sz√ºrke",
+                "l": "Sz√ºrke"
               }
             },
             {
               "v": {
-                "v": "acÈlsz¸rke",
-                "l": "acÈlsz¸rke"
+                "v": "ac√©lsz√ºrke",
+                "l": "ac√©lsz√ºrke"
               }
             }
           ],
@@ -2728,7 +2728,7 @@
           "type": "text",
           "name": "colour",
           "columnName": "colour",
-          "query": "sz¸rke",
+          "query": "sz√ºrke",
           "mode": "text",
           "caseSensitive": false,
           "invert": false
@@ -2741,7 +2741,7 @@
     "edits": [
       {
         "from": [
-          "met·l, sz¸rke"
+          "met√°l, sz√ºrke"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2749,7 +2749,7 @@
       },
       {
         "from": [
-          "Sz¸rke"
+          "Sz√ºrke"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2757,7 +2757,7 @@
       },
       {
         "from": [
-          "acÈlsz¸rke"
+          "ac√©lsz√ºrke"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2781,20 +2781,20 @@
           "selection": [
             {
               "v": {
-                "v": "rozsdamentes acÈl",
-                "l": "rozsdamentes acÈl"
+                "v": "rozsdamentes ac√©l",
+                "l": "rozsdamentes ac√©l"
               }
             },
             {
               "v": {
-                "v": "nemesacÈl",
-                "l": "nemesacÈl"
+                "v": "nemesac√©l",
+                "l": "nemesac√©l"
               }
             },
             {
               "v": {
-                "v": "ragyogÛ acÈl",
-                "l": "ragyogÛ acÈl"
+                "v": "ragyog√≥ ac√©l",
+                "l": "ragyog√≥ ac√©l"
               }
             }
           ],
@@ -2805,7 +2805,7 @@
           "type": "text",
           "name": "colour",
           "columnName": "colour",
-          "query": "acÈl",
+          "query": "ac√©l",
           "mode": "text",
           "caseSensitive": false,
           "invert": false
@@ -2818,7 +2818,7 @@
     "edits": [
       {
         "from": [
-          "ragyogÛ acÈl"
+          "ragyog√≥ ac√©l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2826,7 +2826,7 @@
       },
       {
         "from": [
-          "rozsdamentes acÈl"
+          "rozsdamentes ac√©l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -2834,7 +2834,7 @@
       },
       {
         "from": [
-          "nemesacÈl"
+          "nemesac√©l"
         ],
         "fromBlank": false,
         "fromError": false,
@@ -3978,11 +3978,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2401RR1AAA-J3LTJ1A"
+          "Snaig√© FR2401RR1AAA-J3LTJ1A"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2401RR1AAA-J3LTJ1A"
+        "to": "Snaig√© FR2401RR1AAA-J3LTJ1A"
       },
       {
         "from": [
@@ -4474,11 +4474,11 @@
       },
       {
         "from": [
-          "Beko RCSA225K20W alulfagyasztÛs h˚tıszekrÈny"
+          "Beko RCSA225K20W alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Beko RCSA225K20W alulfagyasztÛs h˚tıszekrÈny"
+        "to": "Beko RCSA225K20W alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -4498,11 +4498,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF34SMS1RA21"
+          "Snaig√© RF34SMS1RA21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF34SMS1RA21"
+        "to": "Snaig√© RF34SMS1RA21"
       },
       {
         "from": [
@@ -4738,11 +4738,11 @@
       },
       {
         "from": [
-          "Beko RDSA280K20W fel¸lfagyasztÛs h˚tıszekrÈny"
+          "Beko RDSA280K20W fel√ºlfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Beko RDSA280K20W fel¸lfagyasztÛs h˚tıszekrÈny"
+        "to": "Beko RDSA280K20W fel√ºlfagyaszt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -5218,11 +5218,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF34SMS1CI21"
+          "Snaig√© RF34SMS1CI21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF34SMS1CI21"
+        "to": "Snaig√© RF34SMS1CI21"
       },
       {
         "from": [
@@ -5258,11 +5258,11 @@
       },
       {
         "from": [
-          "MOBICOOL CK40D h˚tıl·da,12/230V"
+          "MOBICOOL CK40D h≈±t≈ël√°da,12/230V"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "MOBICOOL CK40D h˚tıl·da,12/230V"
+        "to": "MOBICOOL CK40D h≈±t≈ël√°da,12/230V"
       },
       {
         "from": [
@@ -5610,11 +5610,11 @@
       },
       {
         "from": [
-          "BEKO TSE1262 h˚tıszekrÈny"
+          "BEKO TSE1262 h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "BEKO TSE1262 h˚tıszekrÈny"
+        "to": "BEKO TSE1262 h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -5730,11 +5730,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2751RR1AAA-C3LTJ1A"
+          "Snaig√© FR2751RR1AAA-C3LTJ1A"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2751RR1AAA-C3LTJ1A"
+        "to": "Snaig√© FR2751RR1AAA-C3LTJ1A"
       },
       {
         "from": [
@@ -6234,11 +6234,11 @@
       },
       {
         "from": [
-          "SnaigÈ CD40DM"
+          "Snaig√© CD40DM"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ CD40DM"
+        "to": "Snaig√© CD40DM"
       },
       {
         "from": [
@@ -6498,11 +6498,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2751101AA"
+          "Snaig√© FR2751101AA"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2751101AA"
+        "to": "Snaig√© FR2751101AA"
       },
       {
         "from": [
@@ -7138,11 +7138,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF35SMP10022"
+          "Snaig√© RF35SMP10022"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF35SMP10022"
+        "to": "Snaig√© RF35SMP10022"
       },
       {
         "from": [
@@ -7810,11 +7810,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF36SMS1RA21"
+          "Snaig√© RF36SMS1RA21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF36SMS1RA21"
+        "to": "Snaig√© RF36SMS1RA21"
       }
     ],
     "description": "Mass edit cells in column item_name_short"
@@ -8357,11 +8357,11 @@
       },
       {
         "from": [
-          "BEKO TSE1262 h˚tıszekrÈny"
+          "BEKO TSE1262 h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "BEKO TSE1262 h˚tıszekrÈny"
+        "to": "BEKO TSE1262 h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -8389,19 +8389,19 @@
       },
       {
         "from": [
-          "SnaigÈ FR2751101AA"
+          "Snaig√© FR2751101AA"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2751101AA"
+        "to": "Snaig√© FR2751101AA"
       },
       {
         "from": [
-          "Beko RDSA280K20W fel¸lfagyasztÛs h˚tıszekrÈny"
+          "Beko RDSA280K20W fel√ºlfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Beko RDSA280K20W fel¸lfagyasztÛs h˚tıszekrÈny"
+        "to": "Beko RDSA280K20W fel√ºlfagyaszt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -8413,11 +8413,11 @@
       },
       {
         "from": [
-          "SnaigÈ CD40DM"
+          "Snaig√© CD40DM"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ CD40DM"
+        "to": "Snaig√© CD40DM"
       },
       {
         "from": [
@@ -9349,11 +9349,11 @@
       },
       {
         "from": [
-          "MOBICOOL CK40D h˚tıl·da,12/230V"
+          "MOBICOOL CK40D h≈±t≈ël√°da,12/230V"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "MOBICOOL CK40D h˚tıl·da,12/230V"
+        "to": "MOBICOOL CK40D h≈±t≈ël√°da,12/230V"
       },
       {
         "from": [
@@ -9861,11 +9861,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF34SMS1RA21"
+          "Snaig√© RF34SMS1RA21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF34SMS1RA21"
+        "to": "Snaig√© RF34SMS1RA21"
       },
       {
         "from": [
@@ -10421,11 +10421,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF35SMP10022"
+          "Snaig√© RF35SMP10022"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF35SMP10022"
+        "to": "Snaig√© RF35SMP10022"
       },
       {
         "from": [
@@ -10533,11 +10533,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF36SMS1RA21"
+          "Snaig√© RF36SMS1RA21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF36SMS1RA21"
+        "to": "Snaig√© RF36SMS1RA21"
       },
       {
         "from": [
@@ -11157,11 +11157,11 @@
       },
       {
         "from": [
-          "Beko RCSA225K20W alulfagyasztÛs h˚tıszekrÈny"
+          "Beko RCSA225K20W alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Beko RCSA225K20W alulfagyasztÛs h˚tıszekrÈny"
+        "to": "Beko RCSA225K20W alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -11381,11 +11381,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF34SMS1CI21"
+          "Snaig√© RF34SMS1CI21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF34SMS1CI21"
+        "to": "Snaig√© RF34SMS1CI21"
       },
       {
         "from": [
@@ -11789,11 +11789,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2401RR1AAA-J3LTJ1A"
+          "Snaig√© FR2401RR1AAA-J3LTJ1A"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2401RR1AAA-J3LTJ1A"
+        "to": "Snaig√© FR2401RR1AAA-J3LTJ1A"
       },
       {
         "from": [
@@ -12237,11 +12237,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2751RR1AAA-C3LTJ1A"
+          "Snaig√© FR2751RR1AAA-C3LTJ1A"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2751RR1AAA-C3LTJ1A"
+        "to": "Snaig√© FR2751RR1AAA-C3LTJ1A"
       },
       {
         "from": [
@@ -13051,11 +13051,11 @@
       },
       {
         "from": [
-          "Whirlpool WHM4611 FagyasztÛl·da, "
+          "Whirlpool WHM4611 Fagyaszt√≥l√°da, "
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool WHM4611 FagyasztÛl·da, "
+        "to": "Whirlpool WHM4611 Fagyaszt√≥l√°da, "
       },
       {
         "from": [
@@ -13115,11 +13115,11 @@
       },
       {
         "from": [
-          "WHIRLPOOL WHE31352 FO fagyasztÛl·da"
+          "WHIRLPOOL WHE31352 FO fagyaszt√≥l√°da"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "WHIRLPOOL WHE31352 FO fagyasztÛl·da"
+        "to": "WHIRLPOOL WHE31352 FO fagyaszt√≥l√°da"
       },
       {
         "from": [
@@ -13147,11 +13147,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2401RR1AAA-J3LTJ1A"
+          "Snaig√© FR2401RR1AAA-J3LTJ1A"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2401RR1AAA-J3LTJ1A"
+        "to": "Snaig√© FR2401RR1AAA-J3LTJ1A"
       },
       {
         "from": [
@@ -13747,11 +13747,11 @@
       },
       {
         "from": [
-          "Beko RCSA225K20W alulfagyasztÛs h˚tıszekrÈny"
+          "Beko RCSA225K20W alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Beko RCSA225K20W alulfagyasztÛs h˚tıszekrÈny"
+        "to": "Beko RCSA225K20W alulfagyaszt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -13779,11 +13779,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF34SMS1RA21"
+          "Snaig√© RF34SMS1RA21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF34SMS1RA21"
+        "to": "Snaig√© RF34SMS1RA21"
       },
       {
         "from": [
@@ -14035,11 +14035,11 @@
       },
       {
         "from": [
-          "Beko RDSA280K20W fel¸lfagyasztÛs h˚tıszekrÈny"
+          "Beko RDSA280K20W fel√ºlfagyaszt√≥s h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Beko RDSA280K20W fel¸lfagyasztÛs h˚tıszekrÈny"
+        "to": "Beko RDSA280K20W fel√ºlfagyaszt√≥s h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -14171,11 +14171,11 @@
       },
       {
         "from": [
-          "Whirlpool ART 9610/A+ beÈpÌthetı"
+          "Whirlpool ART 9610/A+ be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ART 9610/A+ beÈpÌthetı"
+        "to": "Whirlpool ART 9610/A+ be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -14187,19 +14187,19 @@
       },
       {
         "from": [
-          "Whirlpool SW8AM2CWHRL egyajtÛs h˚tıszekrÈny,"
+          "Whirlpool SW8AM2CWHRL egyajt√≥s h≈±t≈ëszekr√©ny,"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool SW8AM2CWHRL egyajtÛs h˚tıszekrÈny,"
+        "to": "Whirlpool SW8AM2CWHRL egyajt√≥s h≈±t≈ëszekr√©ny,"
       },
       {
         "from": [
-          "Whirlpool ARG 451/A+ BeÈpÌthetı"
+          "Whirlpool ARG 451/A+ Be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ARG 451/A+ BeÈpÌthetı"
+        "to": "Whirlpool ARG 451/A+ Be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -14371,11 +14371,11 @@
       },
       {
         "from": [
-          "Whirlpool ART 6503/A+ BeÈpÌthetı"
+          "Whirlpool ART 6503/A+ Be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ART 6503/A+ BeÈpÌthetı"
+        "to": "Whirlpool ART 6503/A+ Be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -14659,11 +14659,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF34SMS1CI21"
+          "Snaig√© RF34SMS1CI21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF34SMS1CI21"
+        "to": "Snaig√© RF34SMS1CI21"
       },
       {
         "from": [
@@ -14707,11 +14707,11 @@
       },
       {
         "from": [
-          "MOBICOOL CK40D h˚tıl·da,12/230V"
+          "MOBICOOL CK40D h≈±t≈ël√°da,12/230V"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "MOBICOOL CK40D h˚tıl·da,12/230V"
+        "to": "MOBICOOL CK40D h≈±t≈ël√°da,12/230V"
       },
       {
         "from": [
@@ -15019,11 +15019,11 @@
       },
       {
         "from": [
-          "BEKO TSE1262 h˚tıszekrÈny"
+          "BEKO TSE1262 h≈±t≈ëszekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "BEKO TSE1262 h˚tıszekrÈny"
+        "to": "BEKO TSE1262 h≈±t≈ëszekr√©ny"
       },
       {
         "from": [
@@ -15059,11 +15059,11 @@
       },
       {
         "from": [
-          "Whirlpool WHM22113 fagyasztÛl·da, A+++"
+          "Whirlpool WHM22113 fagyaszt√≥l√°da, A+++"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool WHM22113 fagyasztÛl·da, A+++"
+        "to": "Whirlpool WHM22113 fagyaszt√≥l√°da, A+++"
       },
       {
         "from": [
@@ -15179,11 +15179,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2751RR1AAA-C3LTJ1A"
+          "Snaig√© FR2751RR1AAA-C3LTJ1A"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2751RR1AAA-C3LTJ1A"
+        "to": "Snaig√© FR2751RR1AAA-C3LTJ1A"
       },
       {
         "from": [
@@ -15219,11 +15219,11 @@
       },
       {
         "from": [
-          "Whirlpool ARG 718/A+/1 beÈpÌthetı"
+          "Whirlpool ARG 718/A+/1 be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ARG 718/A+/1 beÈpÌthetı"
+        "to": "Whirlpool ARG 718/A+/1 be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15435,11 +15435,11 @@
       },
       {
         "from": [
-          "Whirlpool ARG 18470 beÈpÌthetı"
+          "Whirlpool ARG 18470 be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ARG 18470 beÈpÌthetı"
+        "to": "Whirlpool ARG 18470 be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15451,11 +15451,11 @@
       },
       {
         "from": [
-          "Whirlpool SP40 802EU beÈpÌthetı"
+          "Whirlpool SP40 802EU be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool SP40 802EU beÈpÌthetı"
+        "to": "Whirlpool SP40 802EU be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15499,11 +15499,11 @@
       },
       {
         "from": [
-          "Whirlpool ARG 913/A+ beÈpÌthetı"
+          "Whirlpool ARG 913/A+ be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ARG 913/A+ beÈpÌthetı"
+        "to": "Whirlpool ARG 913/A+ be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15539,11 +15539,11 @@
       },
       {
         "from": [
-          "Whirlpool ART 6610/A++ beÈpÌthetı"
+          "Whirlpool ART 6610/A++ be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ART 6610/A++ beÈpÌthetı"
+        "to": "Whirlpool ART 6610/A++ be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15563,11 +15563,11 @@
       },
       {
         "from": [
-          "Whirlpool ARG 8612/A+ beÈpÌthetı"
+          "Whirlpool ARG 8612/A+ be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ARG 8612/A+ beÈpÌthetı"
+        "to": "Whirlpool ARG 8612/A+ be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15731,27 +15731,27 @@
       },
       {
         "from": [
-          "WHIRLPOOL WHE39352 FO fagyasztÛl·da"
+          "WHIRLPOOL WHE39352 FO fagyaszt√≥l√°da"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "WHIRLPOOL WHE39352 FO fagyasztÛl·da"
+        "to": "WHIRLPOOL WHE39352 FO fagyaszt√≥l√°da"
       },
       {
         "from": [
-          "Whirlpool BLF8122W alulfagyasztÛs Less"
+          "Whirlpool BLF8122W alulfagyaszt√≥s Less"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool BLF8122W alulfagyasztÛs Less"
+        "to": "Whirlpool BLF8122W alulfagyaszt√≥s Less"
       },
       {
         "from": [
-          "Whirlpool ART 6611/A++ beÈpÌthetı"
+          "Whirlpool ART 6611/A++ be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ART 6611/A++ beÈpÌthetı"
+        "to": "Whirlpool ART 6611/A++ be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15795,11 +15795,11 @@
       },
       {
         "from": [
-          "Whirlpool AFB 1840 beÈpÌthetı"
+          "Whirlpool AFB 1840 be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool AFB 1840 beÈpÌthetı"
+        "to": "Whirlpool AFB 1840 be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -15811,11 +15811,11 @@
       },
       {
         "from": [
-          "SnaigÈ CD40DM"
+          "Snaig√© CD40DM"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ CD40DM"
+        "to": "Snaig√© CD40DM"
       },
       {
         "from": [
@@ -16163,11 +16163,11 @@
       },
       {
         "from": [
-          "SnaigÈ FR2751101AA"
+          "Snaig√© FR2751101AA"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ FR2751101AA"
+        "to": "Snaig√© FR2751101AA"
       },
       {
         "from": [
@@ -16387,11 +16387,11 @@
       },
       {
         "from": [
-          "Whirlpool WHM25112 FagyasztÛl·da, A++"
+          "Whirlpool WHM25112 Fagyaszt√≥l√°da, A++"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool WHM25112 FagyasztÛl·da, A++"
+        "to": "Whirlpool WHM25112 Fagyaszt√≥l√°da, A++"
       },
       {
         "from": [
@@ -16523,11 +16523,11 @@
       },
       {
         "from": [
-          "Whirlpool AFB 828/A+ BeÈpÌthetı"
+          "Whirlpool AFB 828/A+ Be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool AFB 828/A+ BeÈpÌthetı"
+        "to": "Whirlpool AFB 828/A+ Be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -16739,11 +16739,11 @@
       },
       {
         "from": [
-          "WHIRLPOOL WHM22113 fagyasztÛl·da +10"
+          "WHIRLPOOL WHM22113 fagyaszt√≥l√°da +10"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "WHIRLPOOL WHM22113 fagyasztÛl·da +10"
+        "to": "WHIRLPOOL WHM22113 fagyaszt√≥l√°da +10"
       },
       {
         "from": [
@@ -16811,11 +16811,11 @@
       },
       {
         "from": [
-          "Whirlpool ARZ 005/A+ beÈpÌthetı"
+          "Whirlpool ARZ 005/A+ be√©p√≠thet≈ë"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool ARZ 005/A+ beÈpÌthetı"
+        "to": "Whirlpool ARZ 005/A+ be√©p√≠thet≈ë"
       },
       {
         "from": [
@@ -16835,11 +16835,11 @@
       },
       {
         "from": [
-          "Hotpoint Ariston BF1801EFAA fagyasztÛszekrÈny"
+          "Hotpoint Ariston BF1801EFAA fagyaszt√≥szekr√©ny"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Hotpoint Ariston BF1801EFAA fagyasztÛszekrÈny"
+        "to": "Hotpoint Ariston BF1801EFAA fagyaszt√≥szekr√©ny"
       },
       {
         "from": [
@@ -16931,11 +16931,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF35SMP10022"
+          "Snaig√© RF35SMP10022"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF35SMP10022"
+        "to": "Snaig√© RF35SMP10022"
       },
       {
         "from": [
@@ -17195,11 +17195,11 @@
       },
       {
         "from": [
-          "Whirlpool SP40800EU beÈpÌthetı alulfagyasztÛs"
+          "Whirlpool SP40800EU be√©p√≠thet≈ë alulfagyaszt√≥s"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool SP40800EU beÈpÌthetı alulfagyasztÛs"
+        "to": "Whirlpool SP40800EU be√©p√≠thet≈ë alulfagyaszt√≥s"
       },
       {
         "from": [
@@ -17419,11 +17419,11 @@
       },
       {
         "from": [
-          "WHIRLPOOL WHS 2121 fagyasztÛl·da"
+          "WHIRLPOOL WHS 2121 fagyaszt√≥l√°da"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "WHIRLPOOL WHS 2121 fagyasztÛl·da"
+        "to": "WHIRLPOOL WHS 2121 fagyaszt√≥l√°da"
       },
       {
         "from": [
@@ -17467,11 +17467,11 @@
       },
       {
         "from": [
-          "Whirlpool WHM3911 FagyasztÛl·da, "
+          "Whirlpool WHM3911 Fagyaszt√≥l√°da, "
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "Whirlpool WHM3911 FagyasztÛl·da, "
+        "to": "Whirlpool WHM3911 Fagyaszt√≥l√°da, "
       },
       {
         "from": [
@@ -17643,11 +17643,11 @@
       },
       {
         "from": [
-          "SnaigÈ RF36SMS1RA21"
+          "Snaig√© RF36SMS1RA21"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "SnaigÈ RF36SMS1RA21"
+        "to": "Snaig√© RF36SMS1RA21"
       }
     ],
     "description": "Mass edit cells in column item_name_short"
