@@ -1,0 +1,233 @@
+---
+title: "Web Scraping with R"
+output:
+  html_document:
+    df_print: paged
+  html_notebook: default
+  pdf_document: default
+---
+
+```{r}
+
+# set working directory
+setwd("C:/Users/gat/OneDrive – Central European University/Data_architecture/Home_work_data_product/raw")
+
+# clear memory
+rm(list=ls())
+
+# Read libraries
+library(tidyverse)     # General purpose data wrangling
+library(rvest)         # Parsing of html/xml files
+library(stringr)       # String manipulation
+library(rebus)         # Verbose regular expressions
+library(lubridate)     # Eases datetime manipulation
+```
+
+
+GET ITEMS LINKS
+```{r}
+
+get_links <- function(url){
+  url %>% 
+    html_nodes('h2 a') %>%       # The relevant tag
+    html_attr("href") %>% 
+    str_trim() %>%                       # Trims additional white space
+    unlist()                             # Converts the list into a vector
+}
+```
+
+```{r}
+
+get_data_table <- function(html, website_category){
+  
+  # Extract the Basic information from the HTML
+  links <- get_links(html)
+  
+  # Combine into a tibble
+  combined_data <- tibble(item_links = links) 
+  
+  # Tag the individual data with the company name
+  combined_data %>% 
+    mutate(website_category = website_category)
+}
+```
+
+```{r}
+get_data_from_url <- function(url, website_category){
+  # Adds basic error catching, returns empty data_frame which works well
+  # With bind_rows further down the line
+  table <- tryCatch({
+    html <- read_html(url)
+    get_data_table(html, website_category)},
+    error = function(cond){
+      return(data.frame())
+    }
+  )
+  return(table)
+}
+
+```
+
+
+```{r}
+scrape_write_table <- function(url, website_category){
+  
+  # Read first page
+  first_page <- read_html(url)
+  
+  # Extract the number of pages that have to be queried
+  latest_page_number <- 18 # SET IT MANUALLY
+  
+  # Generate the target URLs
+  list_of_pages <- str_c(url, '?page=', 1:latest_page_number)
+  
+  # Apply the extraction and bind the individual results back into one table, 
+  # which is then written as a tsv file into the working directory
+  table <- list_of_pages %>% 
+    map(get_data_from_url, website_category) %>%  # Apply to all URLs
+    bind_rows()  %>%                           # Combines the tibbles into one tibble
+  write_tsv(str_c(website_category,'.tsv'))     # Writes a tab separated file
+  return(table)
+}
+```
+
+```{r}
+## APPLY
+##############################
+url <-'https://www.mediamarkt.hu/hu/category/_h%C5%B1t%C5%91szekr%C3%A9ny-504624.html'
+scrape_write_table(url, 'mediamarkt_refrigerator_links')
+```
+
+
+
+```{r}
+# clear memory
+rm(list=ls())
+
+# Read links
+mediamarkt_table <- read_tsv('mediamarkt_refrigerator_links.tsv')
+
+# Correct links
+mediamarkt_table$item_links2 <- paste0("https://www.mediamarkt.hu", mediamarkt_table$item_links)
+```
+
+
+GET ITEM ATTRIBUTES
+```{r}
+
+# item name
+get_item_name <- function(html){
+  html %>% 
+    html_nodes('h1') %>%       # The relevant tag
+    html_text() %>% 
+    str_trim() %>%                       # Trims additional white space
+    unlist()                             # Converts the list into a vector
+}
+
+# price
+get_item_price <- function(html){
+  html %>% 
+    html_nodes('.price') %>%       # The relevant tag
+    html_text() %>% 
+    str_trim() %>%                       # Trims additional white space
+    unlist() %>%                         # Converts the list into a vector
+    unique()                             # get the unique price
+}
+
+# attribute name
+get_attribute_name <- function(html){
+  html %>% 
+    html_nodes('#features dt') %>%       # The relevant tag
+    html_text() %>% 
+    str_trim() %>%                       # Trims additional white space
+    unlist()                             # Converts the list into a vector
+}
+
+# attribute
+get_attribute <- function(html){
+  html %>% 
+    html_nodes('#features dd') %>%       # The relevant tag
+    html_text() %>%
+    str_trim() %>%                       # Trims additional white space
+    unlist()                           # Converts the list into a vector
+}
+
+```
+
+
+```{r}
+
+get_data_table <- function(html, website_category){
+  
+  # Extract the Basic information from the HTML
+  item_name <- get_item_name(html)
+  item_price <- get_item_price(html)
+  attribute_name <- get_attribute_name(html)
+  attribute <- get_attribute(html)
+  
+  # Combine into a tibble
+  combined_data <- tibble(item_name = item_name,
+                          item_price = item_price,
+                          item_attribute_name = attribute_name,
+                          item_attribute = attribute[!(attribute %in% 
+                                                         c("Éves energiafogyasztás kWh/év",
+                                                           "Hűtőrekeszek hasznos űrtartalma",
+                                                           "Összes fagyasztórekesz hasznos űrtartalma",
+                                                           "Zajkibocsátás dB-ben (A)"))]
+                          ) 
+  
+  # Tag the individual data with the company name
+  combined_data %>%
+    mutate(website_category = website_category)
+}
+```
+
+
+```{r}
+get_data_from_url <- function(url, website_category){
+  # Adds basic error catching, returns empty data_frame which works well
+  # With bind_rows further down the line
+  table <- tryCatch({
+    html <- read_html(url)
+    get_data_table(html, website_category) %>% mutate(link = url)
+    
+    },
+    error = function(cond){
+      return(data.frame())
+    }
+  )
+  return(table)
+}
+
+```
+
+
+```{r}
+scrape_write_table <- function(url_list, website_category){
+  
+  
+  # Apply the extraction and bind the individual results back into one table, 
+  # which is then written as a tsv file into the working directory
+  table <- list_of_pages %>% 
+    map(get_data_from_url, website_category) %>%  # Apply to all URLs
+    bind_rows()  %>%                           # Combines the tibbles into one tibble
+  write_tsv(str_c(website_category,'.tsv'))     # Writes a tab separated file
+  return(table)
+}
+```
+
+```{r}
+## APPLY
+##############################
+
+# Generate the target URLs
+list_of_pages <- mediamarkt_table$item_links2
+scrape_write_table(list_of_pages, 'mediamarkt_refrigerator')
+
+```
+
+```{r}
+mediamarkt_table_items <- read_tsv('mediamarkt_refrigerator.tsv')
+```
+
+
