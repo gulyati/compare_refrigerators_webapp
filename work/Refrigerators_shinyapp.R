@@ -61,12 +61,12 @@ ui <- fluidPage(
   h3("Compare all the refrigerators of Mediamark and Edigital"),
   h5("Same products have been merged having the same common_item_id and common_item_name. One product can be listed many times,
     if more items occured with the same attributes on mediamarkt.hu and edigital.hu.
-     Colums:
-     energy_consumption: expressed in kWh per year, 
+     Columns:
+     energy_class: based on the European Union energy label, energy_consumption: expressed in kWh per year, 
      guarantee_month: producer's guarantee expressed in month, total_capacity: cooling and frozing capacity altogether in litre,
      width_cm: width of the product in cm, height_cm: height of the product in cm, depth_cm: depth of the product in cm,
      n_doors: number of doors on the product, weight_kg: weight of the product in kg, website: on which the given item can be found,
-     price: offered price in Ft on the given website, link: hyperlink to the given item"),
+     item_price: offered price in Ft on the given website, link: hyperlink to the given item"),
   
   br(),
   

@@ -1,0 +1,20 @@
+common_item_id: [NUMERIC] unique item ID, same products have been merged having the same common_item_id and common_item_name
+common_item_name: [STRING] unique item name based on the concatenation of item_name_short and colour, same products have been merged having the same common_item_id and common_item_name
+item_name_short [STRING]: content relevant part of the published item name that can be found on websites, consists of 2, 3 or 4 words depending on the producer (rule is in the cleaning code)
+colour: [STRING] item colour
+producer: [STRING] producer of the given item
+type: [STRING] Items have been merged to four main categories: Refrigerator, Freezer, Wine refrigerator and Other
+energy_class: [STRING] based on the European Union energy label
+energy_consumption: [NUMERIC] expressed in kWh per year
+guarantee_month: [NUMERIC] producer's guarantee expressed in month
+width_cm: [NUMERIC] width of the product in cm
+height_cm: height_cm: [NUMERIC] height of the product in cm
+depth_cm: depth_cm: [NUMERIC] depth of the product in cm
+weight_kg: [NUMERIC] weight of the product in kg
+n_doors: [NUMERIC] number of doors on the product
+cooling_capacity_l: [NUMERIC] cooling capacity altogether in litre
+freezing_capacity_l: [NUMERIC] frozing capacity altogether in litre
+total_capacity: [NUMERIC] cooling and frozing capacity altogether in litre
+website: [STRING] on which the given item can be found
+item_price: [NUMERIC] offered price in Ft on the given website
+link: [STRING] hyperlink to the given item
