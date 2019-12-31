@@ -1,5 +1,5 @@
-common_item_id: [NUMERIC] unique item ID, same products have been merged having the same common_item_id and common_item_name
-common_item_name: [STRING] unique item name based on the concatenation of item_name_short and colour, same products have been merged having the same common_item_id and common_item_name
+common_item_id: [NUMERIC] unique item ID, same products have the same common_item_id and common_item_name
+common_item_name: [STRING] unique item name based on the concatenation of item_name_short and colour, same products have the same common_item_id and common_item_name
 item_name_short [STRING]: content relevant part of the published item name that can be found on websites, consists of 2, 3 or 4 words depending on the producer (rule is in the cleaning code)
 colour: [STRING] item colour
 producer: [STRING] producer of the given item

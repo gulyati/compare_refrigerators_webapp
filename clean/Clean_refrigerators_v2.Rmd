@@ -285,16 +285,16 @@ rm(attribute_selected_mediamarkt)
 ```
 
 Clean table with OpenRefine:
-- producer (there was only one producer needed to be merged)
-- type (merge types into fewer categories) There are so may types of refrigerators, but the main categories can be the next ones:
+- producer (BOMANN, HOTPOINT ARISTON)
+- type (merge types into fewer categories) There are so many types of refrigerators, but the main categories can be the next ones:
   1) Refrigerator, 2) Freezer 3) Wine refrigerator 4) Other
 - energy_class (merge same class in one case)
 - colour (merge colours into fewer categories)
 - guarantee_month (convert years to months)
 - Cluster short names ( I could merge around 200 items based on short name)
 
-I found that in many case the first 3 words is enough to identify an item, however sometime 4 words is better, and sometimes 4 words is wost than 3 words.
-I decided to go on merging tems by technical attributes as well.
+I found that in many cases the first 3 words is enough to identify an item, however sometimes 4 words is better, and sometimes 4 words is worse than 3 words.
+I decided to go on merging items by technical attributes as well.
 
 
 ```{r}
@@ -469,7 +469,7 @@ dt_refrigerator$depth_cm <- round(dt_refrigerator$depth_cm, 0)
 Correct values: weight_kg
 ```{r}
 
-# if "(nettó) / (bruttó) or anithing with paranthesis" is included -> change it to ""
+# if "(nettó) / (bruttó) or anything with paranthesis" is included -> change it to ""
 dt_refrigerator$weight_kg <- gsub(" *\\(.*?\\) *", "", dt_refrigerator$weight_kg)
 
 # if "kg" is included -> change it to ""
@@ -481,7 +481,7 @@ dt_refrigerator$weight_kg <- str_replace(dt_refrigerator$weight_kg, " ", "")
 # change decimal
 dt_refrigerator$weight_kg <- str_replace(dt_refrigerator$weight_kg, ",", ".")
 
-# If"/" is included (beacause 2 values are recorded) -> get the first number before the slash mark
+# If"/" is included (because 2 values are recorded) -> get the first number before the slash mark
 dt_refrigerator$weight_kg <- ifelse(grepl("/", dt_refrigerator$weight_kg,fixed = TRUE),
                         str_sub(dt_refrigerator$weight_kg, 1, 2),
                         dt_refrigerator$weight_kg
@@ -571,7 +571,7 @@ dt_refrigerator$item_price_edigital <- as.numeric(dt_refrigerator$item_price_edi
 
 ```
 
-Correct: item_price_edigital
+Correct: item_price_mediamarkt
 ```{r}
 # change variable type
 dt_refrigerator$item_price_mediamarkt <- as.numeric(dt_refrigerator$item_price_mediamarkt)
@@ -664,7 +664,7 @@ write.table(dt_refrigerator, "dt_refrigerator.txt", sep = "|", row.names = FALSE
 ```
 
 
-Create technical attribute tabele to unify attributes
+Create technical attribute table to unify attributes
 ```{r}
 # Filter for relevant columns
 dt_attribute <- dt_refrigerator %>% select("common_item_id",
@@ -804,7 +804,7 @@ write_tsv(dt_refrigerator_final, path = paste0(data_out,"dt_refrigerator_workfil
 write.table(dt_refrigerator_final,paste0(data_out,"dt_refrigerator_workfile.txt"), sep = "|", row.names = FALSE, col.names = TRUE)
 
 # json
-writeLines(toJSON(dt_refrigerator_final), paste0(data_out,"dt_refrigerator_final.JSON"))
+writeLines(toJSON(dt_refrigerator_final), paste0(data_out,"dt_refrigerator_workfile.JSON"))
 
 ```
 

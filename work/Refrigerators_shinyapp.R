@@ -59,7 +59,7 @@ ui <- fluidPage(
   titlePanel("Compare refrigerators"),
   
   h3("Compare all the refrigerators of Mediamark and Edigital"),
-  h5("Same products have been merged having the same common_item_id and common_item_name. One product can be listed many times,
+  h5("Same products have the same common_item_id and common_item_name. One product can be listed many times,
     if more items occured with the same attributes on mediamarkt.hu and edigital.hu.
      Columns:
      energy_class: based on the European Union energy label, energy_consumption: expressed in kWh per year, 
